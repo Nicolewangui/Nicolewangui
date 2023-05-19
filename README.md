@@ -1,4 +1,3 @@
-- 👋 Pythonistas
 - 📫 How to reach me ...send me an email on nicolewangui17@gmail.com
 
 <!---
